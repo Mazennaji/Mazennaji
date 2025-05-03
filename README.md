@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Hi, I'm Mazen Naji<br>I'm a 2nd year Computer Science student with a passion for Game Development, AI/ML, Prompt Engineering, and Full-Stack Development. I love learning by building and exploring the creative side of technology — from crafting interactive game worlds to training smart systems.<br><br>I'm currently working on personal projects that blend code, creativity, and intelligence. Always open to collaboration and learning something new!
+🎓 Hi, I'm Mazen Naji<br>I'm a 2nd year Computer Science student with a passion for Game Development, AI/ML and Full-Stack Development. I love learning by building and exploring the creative side of technology — from crafting interactive game worlds to training smart systems.<br><br>I'm currently working on personal projects that blend code, creativity, and intelligence. Always open to collaboration and learning something new!
 
 
 # 💻 Tech Stack:
