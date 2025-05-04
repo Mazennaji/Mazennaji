@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Mazen Naji<br>From University to GitHub: Crafting Code with Purpose<br>
+# 💫 Hi, I'm Mazen Naji
+<br>From University to GitHub: Crafting Code with Purpose<br>
 
 
 # 💻 Tech Stack:
