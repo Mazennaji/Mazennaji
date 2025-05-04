@@ -1,6 +1,5 @@
 # 💫 About Me:
-From University to GitHub: Crafting Code with Purpose
-<br>I'm Mazen Naji, an undergraduate with a strong focus on Game Development, Software Engineering, AI/ML, and Full Stack Development. I’m passionate about building smart, scalable systems and immersive digital experiences. My work bridges creativity and technical depth, and I'm constantly exploring new technologies to sharpen my skills and deliver high-quality projects.<br>
+<br>Computer Science undergraduate with a strong focus on Game Development, Software Engineering, AI/ML, and Full Stack Development. I’m passionate about building smart, scalable systems and immersive digital experiences. My work bridges creativity and technical depth, and I'm constantly exploring new technologies to sharpen my skills and deliver high-quality projects.<br>
 
 
 ## 🌐 Socials:
