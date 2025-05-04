@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Hi, I'm Mazen Naji<br>I'm an undergraduate Computer Science student with a strong interest in Software Engineering, Game Development, and AI/ML. I enjoy combining creativity and technical skills to build immersive games, intelligent systems, and full-stack applications. Whether it's experimenting with machine learning models, designing game mechanics, or developing efficient backend architectures, I'm always excited to learn, explore, and bring new ideas to life through code.<br><br>I'm currently working on personal projects that blend code, creativity, and intelligence. Always open to collaboration and learning something new!
+Hi, I'm Mazen Naji<br>I'm an undergraduate Computer Science student with a strong interest in Software Engineering, Game Development, and AI/ML. I enjoy combining creativity and technical skills to build immersive games, intelligent systems, and full-stack applications. Whether it's experimenting with machine learning models, designing game mechanics, or developing efficient backend architectures, I'm always excited to learn, explore, and bring new ideas to life through code.<br><br>I'm currently working on personal projects that blend code, creativity, and intelligence. Always open to collaboration and learning something new!
 
 
 # 💻 Tech Stack:
