@@ -21,7 +21,7 @@ My work bridges **creativity** and **technical depth**, and I'm constantly explo
 
 ### 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,php,flutter,dart,html,css,laravel,mysql,postgres,git,github,godot,postman,unity,vscode,cs,c,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,php,flutter,dart,html,css,laravel,mysql,postgres,git,github,godot,postman,unity,vscode,cs,c,linux,arduino,unreal,react,ts" />
 </p>
 
 ---
