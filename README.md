@@ -12,7 +12,7 @@ My work bridges **creativity** and **technical depth**, and I'm constantly explo
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/mazen-naji-71704b285/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
