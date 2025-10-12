@@ -21,9 +21,21 @@ My work bridges **creativity** and **technical depth**, and I'm constantly explo
 
 ### 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,php,flutter,dart,html,css,laravel,mysql,postgres,git,github,godot,postman,unity,vscode,cs,c,linux,arduino,unreal,react,ts" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,php,flutter,dart,html,css,laravel,godot,unity,cs,c,linux,arduino,unreal,react,ts,anaconda" />
+</p>
+#### 🧩 Databases & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode,postgres,intelliJ" />
 </p>
 
+#### 🤖 AI & Data Science Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mazennaji&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
