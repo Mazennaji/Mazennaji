@@ -23,12 +23,12 @@ My work bridges **creativity** and **technical depth**, and I'm constantly explo
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js,php,flutter,dart,html,css,laravel,godot,unity,cs,c,linux,arduino,unreal,react,ts,anaconda" />
 </p>
-#### 🧩 Databases & Tools
+### 🧩 Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode,postgres,intelliJ" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode,postgres,idea,netbeans" />
 </p>
 
-#### 🤖 AI & Data Science Libraries
+### 🤖 AI & Data Science Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
