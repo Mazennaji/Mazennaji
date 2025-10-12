@@ -49,13 +49,6 @@ My work bridges **creativity** and **technical depth**, and I'm constantly explo
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
-
----
-
 ### ⚡ Fun Fact
 > “I turn ideas into code and code into experiences.”
 
