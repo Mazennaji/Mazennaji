@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mazen Naji</h1>
-<h3 align="center">🚀 Computer Science Undergraduate | Game Developer | Software Engineer | AI & ML Engineer | Full Stack Developer</h3>
+<h3 align="center">🚀 Computer Science Undergraduate | Software Developer</h3>
 
 ---
 
@@ -21,12 +21,12 @@ My work bridges **creativity** and **technical depth**, and I'm constantly explo
 
 ### 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,php,flutter,dart,html,css,laravel,godot,unity,cs,c,linux,arduino,unreal,react,ts,go,lua,next,angular" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,php,flutter,dart,html,css,laravel,godot,unity,cs,c,linux,arduino,unreal,react,ts,go,lua,next,angular,sql" />
 </p>
 
 ### 🧩 Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode,postgres,idea,netbeans,anaconda,docker" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode,postgres,idea,anaconda,docker" />
 </p>
 
 ### 🤖 AI & Data Science Libraries
