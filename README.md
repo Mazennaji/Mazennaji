@@ -38,6 +38,7 @@ My work bridges **creativity** and **technical depth**, and I'm constantly explo
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 ---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mazennaji&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mazennaji&theme=dark&hide_border=false)<br/>
