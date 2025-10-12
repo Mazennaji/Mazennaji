@@ -21,11 +21,11 @@ My work bridges **creativity** and **technical depth**, and I'm constantly explo
 
 ### 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,php,flutter,dart,html,css,laravel,godot,unity,cs,c,linux,arduino,unreal,react,ts,anaconda" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,php,flutter,dart,html,css,laravel,godot,unity,cs,c,linux,arduino,unreal,react,ts,go,lua,next,angular" />
 </p>
 ### 🧩 Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode,postgres,idea,netbeans" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode,postgres,idea,netbeans,anaconda,docker" />
 </p>
 
 ### 🤖 AI & Data Science Libraries
