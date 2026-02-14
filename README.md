@@ -229,11 +229,11 @@ class MazenNaji:
 <div align="center">
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-090018?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/mazennaji)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-090018?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mazen-naji/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GITHUB-090018?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mazennaji)
 &nbsp;
-[![Email](https://img.shields.io/badge/EMAIL-090018?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mazennaji@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-090018?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mazen.naji.1@gmail.com)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-090018?style=for-the-badge&logo=firefox&logoColor=9b59ff)](https://github.com/Mazennaji)
 
