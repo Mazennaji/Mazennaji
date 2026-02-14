@@ -96,7 +96,7 @@ class MazenNaji:
 ### ◇ Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio" />
 </p>
 
 ---
@@ -124,7 +124,7 @@ class MazenNaji:
 ---
 ### ◇ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,arduino,anaconda" />
 </p>
 
 ---
@@ -184,9 +184,9 @@ class MazenNaji:
 
 ---
 
-# ✦ ACTIVE MISSIONS
+# 💡 Quote of the Day
 
-Distributed backend systems · UE5 & Unity game shipping · Deep learning at scale · Containerized microservices · AI × interactive media
+> "The best way to predict the future is to invent it." – Alan Kay
 
 ---
 
