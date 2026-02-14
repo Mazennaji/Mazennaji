@@ -70,7 +70,7 @@ class MazenNaji:
 ### ◇ Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,laravel,spring,graphql,nestjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,laravel,spring,graphql,nestjs,net" />
 </p>
 
 ---
@@ -121,9 +121,15 @@ class MazenNaji:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
 </p>
 
-</div>
+---
+### ◇ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+</p>
 
 ---
+
+</div>
 
 # ✦ GITHUB STATS
 
