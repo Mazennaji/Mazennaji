@@ -61,7 +61,7 @@ class MazenNaji:
 ### ✦ &nbsp;Core Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,go,rust,php,c,cs,lua,kotlin,swift,dart,bash,scala&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,go,rust,php,c,cs,lua,kotlin,swift,dart,bash,scala,ruby&theme=dark" />
 </p>
 
 <br/>
