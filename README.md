@@ -14,9 +14,6 @@
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Mazennaji&icon=6&color=7)](https://visitcount.itsvg.in)&nbsp;&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/Mazennaji?color=c4a4ff&labelColor=0a0018&style=flat-square&logo=github&logoColor=white)&nbsp;&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Mazennaji&color=7a2fff&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
