@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d0d1a,60:1a0533,100:2d0a6e&height=300&section=header&text=MAZEN%20NAJI&fontSize=88&fontColor=e8d5ff&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20Game%20Developer%20%E2%80%A2%20AI%20Enthusiastic&descSize=16&descAlignY=62&descColor=9b6dff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020008,20:05001a,50:0f0030,80:1a0050,100:2d0080&height=320&section=header&text=MAZEN%20NAJI&fontSize=96&fontColor=f0e8ff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Game%20Developer%20%E2%80%A2%20AI%20Engineer&descSize=17&descAlignY=60&descColor=a78bfa"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=300&size=18&duration=3000&pause=1200&color=C4A4FF&center=true&vCenter=true&width=680&lines=Architecting+systems+that+think+and+worlds+that+breathe.;From+neural+nets+to+pixel+shaders+%E2%80%94+I+build+it+all.;Full+stack.+Full+depth.+No+limits." />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=400&size=13&duration=3500&pause=1400&color=C4A4FF&center=true&vCenter=true&width=720&lines=Architecting+systems+that+think+%E2%80%94+worlds+that+breathe.;Neural+nets+to+pixel+shaders.+I+build+it+all.;Full+stack.+Full+depth.+Zero+limits." />
 
 </div>
 
@@ -14,19 +14,21 @@
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Mazennaji&icon=6&color=7)](https://visitcount.itsvg.in)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/Mazennaji?color=c4a4ff&labelColor=0d0d1a&style=flat-square&logo=github&logoColor=white)
+[![](https://visitcount.itsvg.in/api?id=Mazennaji&icon=6&color=7)](https://visitcount.itsvg.in)&nbsp;&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/Mazennaji?color=c4a4ff&labelColor=0a0018&style=flat-square&logo=github&logoColor=white)&nbsp;&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Mazennaji&color=7a2fff&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0018,100:1a0050&height=2&section=header"/>
+</div>
+
+<br/>
 
 ---
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,100:1a0a33&height=4&section=header"/>
-</div>
-
-<br/>
 
 ## ◈ &nbsp;IDENTITY MATRIX
 
@@ -146,13 +148,46 @@ class MazenNaji:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mazennaji&show_icons=true&theme=transparent&hide_border=true&bg_color=0d0d1a&title_color=c4a4ff&icon_color=9b59ff&text_color=c9d1d9&ring_color=7a2fff&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mazennaji&show_icons=true&theme=transparent&hide_border=true&bg_color=0a0018&title_color=c4a4ff&icon_color=9b59ff&text_color=c9d1d9&ring_color=7a2fff&include_all_commits=true"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazennaji&layout=compact&theme=transparent&hide_border=true&bg_color=0d0d1a&title_color=c4a4ff&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazennaji&layout=compact&theme=transparent&hide_border=true&bg_color=0a0018&title_color=c4a4ff&text_color=c9d1d9&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Mazennaji&theme=transparent&hide_border=true&background=0d0d1a&ring=7a2fff&fire=c4a4ff&currStreakLabel=c4a4ff&sideLabels=9b6dff&dates=665588&currStreakNum=ffffff&sideNums=e8d5ff"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Mazennaji&theme=transparent&hide_border=true&background=0a0018&ring=7a2fff&fire=c4a4ff&currStreakLabel=c4a4ff&sideLabels=9b6dff&dates=665588&currStreakNum=ffffff&sideNums=e8d5ff"/>
+
+</div>
+
+<br/>
+
+---
+
+## ◈ &nbsp;COMPETITIVE ARENA
+
+<div align="center">
+
+<br/>
+
+<a href="https://leetcode.com/u/MazenNaji/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/MazenNaji?theme=dark&font=Josefin%20Sans&ext=heatmap&border=0&radius=12" alt="LeetCode Stats"/>
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/MazenNaji/">
+  <img src="https://img.shields.io/badge/LeetCode-Grinding%20Daily-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a2e"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/mazen_naji_1">
+  <img src="https://img.shields.io/badge/HackerRank-Problem%20Solver-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=1a1a2e"/>
+</a>
+
+<br/><br/>
+
+| Platform | Focus | Badge |
+|:--|:--|:--:|
+| 🟡 **LeetCode** | Data Structures · Algorithms · Contests | [![LeetCode](https://img.shields.io/badge/Visit%20Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/MazenNaji/) |
+| 🟢 **HackerRank** | Problem Solving · Programmer · Certifications | [![HackerRank](https://img.shields.io/badge/Visit%20Profile-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/mazen_naji_1) |
 
 </div>
 
@@ -176,7 +211,7 @@ class MazenNaji:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mazennaji&theme=tokyo-night&bg_color=0d0d1a&color=c4a4ff&line=7a2fff&point=ffffff&area=true&area_color=2a0055&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mazennaji&theme=tokyo-night&bg_color=0a0018&color=c4a4ff&line=7a2fff&point=ffffff&area=true&area_color=1a0050&hide_border=true" width="95%"/>
 
 </div>
 
@@ -190,7 +225,7 @@ class MazenNaji:
 
 <br/>
 
-|  Attribute | Signal Strength | Rating |
+| &nbsp;Attribute | Signal Strength | Rating |
 |:--|:--|:--:|
 | ◆ Systems Design | `████████████████████████████` | **ELITE** |
 | ◆ Algorithm Mastery | `██████████████████████████░░` | **94 %** |
@@ -225,22 +260,24 @@ class MazenNaji:
 <br/>
 
 <a href="https://www.linkedin.com/in/mazen-naji/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Mazennaji">
-  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=github" height="48"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:mazen.naji.1@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
 
 <br/><br/>
 
-![](https://img.shields.io/badge/Open%20to-Collaborations-7a2fff?style=for-the-badge&labelColor=0d0d1a)
+![](https://img.shields.io/badge/Open%20to-Collaborations-7a2fff?style=for-the-badge&labelColor=0a0018)
 &nbsp;
-![](https://img.shields.io/badge/Status-Building%20%26%20Shipping-c4a4ff?style=for-the-badge&labelColor=0d0d1a)
+![](https://img.shields.io/badge/Status-Building%20%26%20Shipping-c4a4ff?style=for-the-badge&labelColor=0a0018)
+&nbsp;
+![](https://img.shields.io/badge/Competitive-Coding%20Active-a78bfa?style=for-the-badge&labelColor=0a0018)
 
 </div>
 
@@ -254,6 +291,6 @@ class MazenNaji:
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0a6e,50:1a0533,100:0a0a0f&height=160&section=footer&text=%E2%AD%90%20Star%20a%20repo%20if%20the%20code%20hits%20different%20%E2%AD%90&fontSize=14&fontColor=c4a4ff&animation=twinkling&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0080,50:1a0050,100:020008&height=160&section=footer&text=%E2%AD%90%20Star%20a%20repo%20if%20the%20code%20hits%20different%20%E2%AD%90&fontSize=14&fontColor=c4a4ff&animation=twinkling&fontAlignY=65"/>
 
 </div>
