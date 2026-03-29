@@ -151,7 +151,7 @@ class MazenNaji:
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Mazennaji&theme=transparent&hide_border=true&background=0a0018&ring=7a2fff&fire=c4a4ff&currStreakLabel=c4a4ff&sideLabels=9b6dff&dates=665588&currStreakNum=ffffff&sideNums=e8d5ff"/>
+<img src="https://streak-stats.demolab.com?user=Mazennaji&theme=transparent&hide_border=true&background=0a0018&ring=7a2fff&fire=c4a4ff&currStreakLabel=c4a4ff&sideLabels=9b6dff&dates=665588&currStreakNum=ffffff&sideNums=e8d5ff"/>
 
 </div>
 
