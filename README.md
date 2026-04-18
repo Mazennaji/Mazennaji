@@ -22,13 +22,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Mazennaji&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" />
-</div>
-
-<br/>
 
 ---
 
