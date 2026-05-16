@@ -90,7 +90,7 @@ if __name__ == "__main__":
 <br/>
 <img src="https://skillicons.dev/icons?i=go,rust,php,c,cs&theme=dark&perline=5" />
 <br/>
-<img src="https://skillicons.dev/icons?i=lua,kotlin,dart,bash,scala&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=lua,kotlin,dart,bash,scala,perl,haskell&theme=dark&perline=5" />
 
 <br/><br/>
 
@@ -100,7 +100,7 @@ if __name__ == "__main__":
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,laravel,spring,nestjs&theme=dark&perline=6" />
 <br/>
-<img src="https://skillicons.dev/icons?i=graphql,tailwind,threejs,html,css&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=graphql,tailwind,threejs,html,css,jquery&theme=dark&perline=6" />
 
 <br/><br/>
 
@@ -120,7 +120,7 @@ if __name__ == "__main__":
 
 ### ◈ Mobile
 
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio,react&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,react,java&theme=dark&perline=6" />
 
 <br/><br/>
 
@@ -132,7 +132,7 @@ if __name__ == "__main__":
 
 ### ◈ Tools & Environment
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino,anaconda,idea&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino,anaconda,idea,maven,gradle&theme=dark&perline=7" />
 
 </div>
 
