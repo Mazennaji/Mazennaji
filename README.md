@@ -108,7 +108,7 @@ if __name__ == "__main__":
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis&theme=dark&perline=6" />
 <br/>
-<img src="https://skillicons.dev/icons?i=firebase,supabase&theme=dark&perline=6" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" title="Microsoft SQL Server"/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,prisma&theme=dark&perline=6" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" title="Microsoft SQL Server"/>
 
 <br/><br/>
 
