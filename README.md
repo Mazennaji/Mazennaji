@@ -1,22 +1,3 @@
-<!--
-════════════════════════════════════════════════════════════════════════════
-  MAZEN NAJI · GITHUB PROFILE README
-  ──────────────────────────────────────────────────────────────────────────
-  RESILIENCE NOTES (read before editing):
-  • Third-party stat services (github-readme-stats, streak-stats,
-    github-profile-trophy, activity-graph) run on shared Vercel instances that
-    are frequently rate-limited or 503'd. When they fail they render a broken
-    image. To reduce that:
-      – every dynamic image is wrapped in a clickable link to a real page,
-        so a broken card still leads somewhere useful.
-      – &cache_seconds is set high to lower request frequency.
-      – each dynamic image has descriptive alt text, so a failed load shows
-        readable words instead of a filename.
-  • If a card stays broken for days, self-host the service on your own Vercel
-    (free) and swap the domain — this eliminates the shared rate limit.
-════════════════════════════════════════════════════════════════════════════
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:050010,50:0a001a,75:120030,100:1a0040&height=320&section=header&text=MAZEN%20NAJI&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%20·%20%20Game%20Developer%20%20·%20%20AI%20Engineer&descSize=15&descAlignY=62&descColor=a78bfa&stroke=6d28d9&strokeWidth=2.5" alt="Mazen Naji — Software Engineer · Game Developer · AI Engineer"/>
@@ -174,10 +155,6 @@ if __name__ == "__main__":
 
 <div align="center">
 
-<sub>📊 <i>Stat cards are served by a shared third-party service that can rate-limit at peak hours — if a card looks blank, click it or refresh in a minute.</i></sub>
-
-<br/><br/>
-
 <a href="https://github.com/Mazennaji" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mazennaji&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=6d28d9&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" alt="Mazen Naji's GitHub stats"/>
 </a>
@@ -287,30 +264,6 @@ if __name__ == "__main__":
 | 🎮 **Game Development** | Gameplay systems · shader programming · procedural generation · AI NPCs |
 | 📱 **Mobile** | Cross-platform apps with Flutter & React Native |
 | ☁️ **Cloud & DevOps** | Containerised microservices · CI/CD · distributed infrastructure |
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## `// FEATURED_WORK`
-
-<div align="center">
-
-<sub>🔧 <i>Swap these for your real repos — replace <code>repo=REPLACE_ME</code> with the actual repository names.</i></sub>
-
-<br/><br/>
-
-<a href="https://github.com/Mazennaji?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mazennaji&repo=REPLACE_ME&theme=transparent&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&cache_seconds=86400" alt="Featured repository" />
-</a>
-&nbsp;
-<a href="https://github.com/Mazennaji?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mazennaji&repo=REPLACE_ME&theme=transparent&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&cache_seconds=86400" alt="Featured repository" />
-</a>
 
 </div>
 
