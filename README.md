@@ -1,12 +1,31 @@
+<!--
+════════════════════════════════════════════════════════════════════════════
+  MAZEN NAJI · GITHUB PROFILE README
+  ──────────────────────────────────────────────────────────────────────────
+  RESILIENCE NOTES (read before editing):
+  • Third-party stat services (github-readme-stats, streak-stats,
+    github-profile-trophy, activity-graph) run on shared Vercel instances that
+    are frequently rate-limited or 503'd. When they fail they render a broken
+    image. To reduce that:
+      – every dynamic image is wrapped in a clickable link to a real page,
+        so a broken card still leads somewhere useful.
+      – &cache_seconds is set high to lower request frequency.
+      – each dynamic image has descriptive alt text, so a failed load shows
+        readable words instead of a filename.
+  • If a card stays broken for days, self-host the service on your own Vercel
+    (free) and swap the domain — this eliminates the shared rate limit.
+════════════════════════════════════════════════════════════════════════════
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:050010,50:0a001a,75:120030,100:1a0040&height=320&section=header&text=MAZEN%20NAJI&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%20·%20%20Game%20Developer%20%20·%20%20AI%20Engineer&descSize=15&descAlignY=62&descColor=a78bfa&stroke=6d28d9&strokeWidth=2.5"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:050010,50:0a001a,75:120030,100:1a0040&height=320&section=header&text=MAZEN%20NAJI&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%20·%20%20Game%20Developer%20%20·%20%20AI%20Engineer&descSize=15&descAlignY=62&descColor=a78bfa&stroke=6d28d9&strokeWidth=2.5" alt="Mazen Naji — Software Engineer · Game Developer · AI Engineer"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=3500&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=▸+Architecting+systems+that+think+%26+worlds+that+breathe;▸+Neural+networks+to+pixel+shaders+—+full+depth,+zero+compromises;▸+Where+engineering+precision+meets+creative+vision" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=3500&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=%E2%96%B8+Architecting+systems+that+think+%26+worlds+that+breathe;%E2%96%B8+Neural+networks+to+pixel+shaders+%E2%80%94+full+depth%2C+zero+compromises;%E2%96%B8+Where+engineering+precision+meets+creative+vision" alt="Architecting systems that think and worlds that breathe" />
 
 </div>
 
@@ -22,6 +41,15 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Mazennaji&label=PROFILE%20VIEWS&color=6d28d9&style=for-the-badge" alt="Profile views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Mazennaji?label=FOLLOWERS&style=for-the-badge&color=8b5cf6&labelColor=0d0020&logo=github" alt="GitHub followers" />
+&nbsp;
+<img src="https://img.shields.io/badge/BASED%20IN-LEBANON%20%F0%9F%87%B1%F0%9F%87%A7-a78bfa?style=for-the-badge&labelColor=0d0020" alt="Based in Lebanon" />
+
+</div>
 
 ---
 
@@ -86,53 +114,53 @@ if __name__ == "__main__":
 
 ### ◈ Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts&theme=dark&perline=5" alt="C++, Java, Python, JavaScript, TypeScript" />
 <br/>
-<img src="https://skillicons.dev/icons?i=go,rust,php,c,cs&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=go,rust,php,c,cs&theme=dark&perline=5" alt="Go, Rust, PHP, C, C#" />
 <br/>
-<img src="https://skillicons.dev/icons?i=lua,kotlin,dart,bash,scala,perl,haskell&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=lua,kotlin,dart,bash,scala,perl,haskell&theme=dark&perline=5" alt="Lua, Kotlin, Dart, Bash, Scala, Perl, Haskell" />
 
 <br/><br/>
 
 ### ◈ Web & Backend
 
-<img src="https://skillicons.dev/icons?i=react,next,nuxt,vue,angular,svelte&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,next,nuxt,vue,angular,svelte&theme=dark&perline=6" alt="React, Next.js, Nuxt, Vue, Angular, Svelte" />
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,laravel,spring,nestjs&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,laravel,spring,nestjs&theme=dark&perline=6" alt="Node.js, FastAPI, Django, Laravel, Spring, NestJS" />
 <br/>
-<img src="https://skillicons.dev/icons?i=graphql,tailwind,threejs,html,css,jquery&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=graphql,tailwind,threejs,html,css,jquery&theme=dark&perline=6" alt="GraphQL, Tailwind, Three.js, HTML, CSS, jQuery" />
 
 <br/><br/>
 
 ### ◈ Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis&theme=dark&perline=6" alt="PostgreSQL, MySQL, MongoDB, SQLite, Redis" />
 <br/>
-<img src="https://skillicons.dev/icons?i=firebase,supabase,prisma&theme=dark&perline=6" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" title="Microsoft SQL Server"/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,prisma&theme=dark&perline=6" alt="Firebase, Supabase, Prisma" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" title="Microsoft SQL Server" alt="Microsoft SQL Server"/>
 
 <br/><br/>
 
 ### ◈ Cloud, DevOps & AI
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,githubactions,pytorch,tensorflow&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,githubactions,pytorch,tensorflow&theme=dark&perline=8" alt="Docker, Kubernetes, AWS, GCP, Linux, GitHub Actions, PyTorch, TensorFlow" />
 
 <br/><br/>
 
 ### ◈ Mobile
 
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio,react,java&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,react,java&theme=dark&perline=6" alt="Flutter, Android Studio, React Native, Java" />
 
 <br/><br/>
 
 ### ◈ Game Development
 
-<img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender&theme=dark&perline=6" alt="Unity, Unreal Engine, Godot, Blender" />
 
 <br/><br/>
 
 ### ◈ Tools & Environment
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino,anaconda,idea,maven,gradle&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino,anaconda,idea,maven,gradle&theme=dark&perline=7" alt="Git, GitHub, VS Code, Postman, Arduino, Anaconda, IntelliJ IDEA, Maven, Gradle" />
 
 </div>
 
@@ -146,13 +174,23 @@ if __name__ == "__main__":
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mazennaji&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=6d28d9&include_all_commits=true&count_private=true&rank_icon=github"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazennaji&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
+<sub>📊 <i>Stat cards are served by a shared third-party service that can rate-limit at peak hours — if a card looks blank, click it or refresh in a minute.</i></sub>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Mazennaji&theme=transparent&hide_border=true&background=00000000&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=8b5cf6&dates=6b5fa0&currStreakNum=ffffff&sideNums=e0d0ff"/>
+<a href="https://github.com/Mazennaji" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mazennaji&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=6d28d9&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" alt="Mazen Naji's GitHub stats"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Mazennaji" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazennaji&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Mazen Naji's most used languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Mazennaji" target="_blank">
+  <img src="https://streak-stats.demolab.com?user=Mazennaji&theme=transparent&hide_border=true&background=00000000&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=8b5cf6&dates=6b5fa0&currStreakNum=ffffff&sideNums=e0d0ff&cache_seconds=86400" alt="Mazen Naji's GitHub streak"/>
+</a>
 
 </div>
 
@@ -167,7 +205,7 @@ if __name__ == "__main__":
 <div align="center">
 
 <a href="https://leetcode.com/u/MazenNaji/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/MazenNaji?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12" alt="LeetCode Stats" width="500"/>
+  <img src="https://leetcard.jacoblin.cool/MazenNaji?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12" alt="MazenNaji's LeetCode stats and heatmap" width="500"/>
 </a>
 
 <br/><br/>
@@ -189,7 +227,9 @@ if __name__ == "__main__":
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mazennaji&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
+<a href="https://github.com/Mazennaji" target="_blank">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mazennaji&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Mazen Naji's GitHub trophies"/>
+</a>
 
 </div>
 
@@ -203,7 +243,9 @@ if __name__ == "__main__":
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mazennaji&theme=tokyo-night&bg_color=0d0020&color=a78bfa&line=6d28d9&point=ffffff&area=true&area_color=1a0050&hide_border=true" width="96%"/>
+<a href="https://github.com/Mazennaji" target="_blank">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mazennaji&theme=tokyo-night&bg_color=0d0020&color=a78bfa&line=6d28d9&point=ffffff&area=true&area_color=1a0050&hide_border=true" width="96%" alt="Mazen Naji's contribution activity graph"/>
+</a>
 
 </div>
 
@@ -254,6 +296,30 @@ if __name__ == "__main__":
 
 <br/>
 
+## `// FEATURED_WORK`
+
+<div align="center">
+
+<sub>🔧 <i>Swap these for your real repos — replace <code>repo=REPLACE_ME</code> with the actual repository names.</i></sub>
+
+<br/><br/>
+
+<a href="https://github.com/Mazennaji?tab=repositories" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mazennaji&repo=REPLACE_ME&theme=transparent&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&cache_seconds=86400" alt="Featured repository" />
+</a>
+&nbsp;
+<a href="https://github.com/Mazennaji?tab=repositories" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mazennaji&repo=REPLACE_ME&theme=transparent&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&cache_seconds=86400" alt="Featured repository" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 <div align="center">
 
 > *"The best way to predict the future is to invent it."*
@@ -288,6 +354,6 @@ if __name__ == "__main__":
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0040,50:0d0020,100:000000&height=150&section=footer&text=⭐%20If%20the%20code%20hits%20different,%20drop%20a%20star%20⭐&fontSize=14&fontColor=a78bfa&animation=twinkling&fontAlignY=72"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0040,50:0d0020,100:000000&height=150&section=footer&text=%E2%AD%90%20If%20the%20code%20hits%20different%2C%20drop%20a%20star%20%E2%AD%90&fontSize=14&fontColor=a78bfa&animation=twinkling&fontAlignY=72" alt="If the code hits different, drop a star"/>
 
 </div>
