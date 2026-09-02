@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:0a0015,40:120025,60:1a0040,80:220055,100:2a0066&height=340&section=header&text=MAZEN%20NAJI&fontSize=95&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20 · %20Full Stack%20Engineer%20 · %20AI%20Engineer&descSize=16&descAlignY=58&descColor=c4b5fd&stroke=7c3aed&strokeWidth=2" alt="Mazen Naji — Software Engineer  ·  Full Stack Engineer  ·  AI Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:0a0015,40:120025,60:1a0040,80:220055,100:2a0066&height=340&section=header&text=MAZEN%20NAJI&fontSize=95&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Game%20Developer%20%C2%B7%20AI%20Engineer&descSize=16&descAlignY=58&descColor=c4b5fd&stroke=7c3aed&strokeWidth=2" alt="Mazen Naji — Software Engineer · Game Developer · AI Engineer"/>
 
 </div>
 
