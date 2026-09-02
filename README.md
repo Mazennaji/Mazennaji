@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:050010,50:0a001a,75:120030,100:1a0040&height=320&section=header&text=MAZEN%20NAJI&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%20·%20%20Game%20Developer%20%20·%20%20AI%20Engineer&descSize=15&descAlignY=62&descColor=a78bfa&stroke=6d28d9&strokeWidth=2.5" alt="Mazen Naji — Software Engineer · Game Developer · AI Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:0a0015,40:120025,60:1a0040,80:220055,100:2a0066&height=340&section=header&text=MAZEN%20NAJI&fontSize=95&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20 · %20Full Stack%20Engineer%20 · %20AI%20Engineer&descSize=16&descAlignY=58&descColor=c4b5fd&stroke=7c3aed&strokeWidth=2" alt="Mazen Naji — Software Engineer  ·  Full Stack Engineer  ·  AI Engineer"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=3500&pause=1500&color=8B5CF6&center=true&vCenter=true&width=750&lines=%E2%96%B8+Architecting+systems+that+think+%26+worlds+that+breathe;%E2%96%B8+Neural+networks+to+pixel+shaders+%E2%80%94+full+depth%2C+zero+compromises;%E2%96%B8+Where+engineering+precision+meets+creative+vision" alt="Architecting systems that think and worlds that breathe" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3200&pause=1400&color=A78BFA&center=true&vCenter=true&width=800&lines=%E2%96%B8+Architecting+systems+that+think+%26+worlds+that+breathe;%E2%96%B8+Neural+networks+to+pixel+shaders+%E2%80%94+full+depth%2C+zero+compromises;%E2%96%B8+Where+engineering+precision+meets+creative+vision;%E2%96%B8+Turning+ambiguous+ideas+into+shipped%2C+scalable+systems" alt="Typing animation of taglines"/>
 
 </div>
 
@@ -14,6 +14,7 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&label=mazennaji.dev)](https://mazennaji.dev)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Mazen%20Naji)](https://www.linkedin.com/in/mazen-naji/)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white&label=Mazennaji)](https://github.com/Mazennaji)&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=mazen.naji.1)](mailto:mazen.naji.1@gmail.com)&nbsp;
@@ -28,31 +29,35 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/Mazennaji?label=FOLLOWERS&style=for-the-badge&color=8b5cf6&labelColor=0d0020&logo=github" alt="GitHub followers" />
 &nbsp;
-<img src="https://img.shields.io/badge/BASED%20IN-LEBANON%20%F0%9F%87%B1%F0%9F%87%A7-a78bfa?style=for-the-badge&labelColor=0d0020" alt="Based in Lebanon" />
+<img src="https://img.shields.io/badge/BASED%20IN-LEBANON-a78bfa?style=for-the-badge&labelColor=0d0020" alt="Based in Lebanon" />
+&nbsp;
+<img src="https://img.shields.io/badge/OPEN%20TO-WORK%20%2F%20COLLABS-2ea043?style=for-the-badge&labelColor=0d0020" alt="Open to work and collaborations" />
 
 </div>
 
----
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,10,14&height=2&width=900" alt="divider"/>
+</div>
 
 <br/>
 
-## `// WHO_AM_I`
+## Who Am I
 
 ```python
 #!/usr/bin/env python3
-# ─────────────────────────────────────────────
 #  engineer.py  ·  Mazen Naji  ·  v∞
-# ─────────────────────────────────────────────
 
 class MazenNaji:
     """
-    CS Undergraduate turned Software Engineer.
+    CS Graduate turned Software Engineer.
     I don't just write code — I engineer experiences.
     """
 
     name       : str  = "Mazen Naji"
     role       : str  = "Software Engineer · Game Developer · AI Engineer"
-    origin     : str  = "Lebanon 🇱🇧"
+    origin     : str  = "Lebanon"
     status     : str  = "Building systems that are smart, scalable & immersive"
     learning   : list = [
         "Deep Reinforcement Learning",
@@ -87,7 +92,39 @@ if __name__ == "__main__":
 
 <br/>
 
-## `// TECH_ARSENAL`
+## About Me
+
+<table>
+<tr>
+<td width="60%" valign="middle">
+
+I'm **Mazen** — a software engineer who genuinely loses track of time building things, whether that's a neural net, a multiplayer game server, or a slick full-stack app. I like taking an idea that's still fuzzy in someone's head and turning it into something real, fast, and built to last.
+
+Right now I'm deep in **Deep Reinforcement Learning** and **procedural world generation**, and slowly leveling up my **distributed systems** game. I'm the kind of person who reads the docs *and* the source code, and who'll happily fall down a rabbit hole at 2am chasing one weird bug.
+
+I also genuinely enjoy contributing to open source and collaborating with people who care about craft as much as I do — if that's you, my inbox is open.
+
+- Currently building: AI pipelines, gameplay systems & scalable backends
+- Currently leveling up: RL, procedural generation, distributed systems
+- Always down for: open-source collabs, hackathons, ambitious side projects
+- Fun fact: my sleep schedule is best described as "negotiable"
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Animated illustration of a developer coding" width="340"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## Tech Arsenal
 
 <br/>
 
@@ -151,19 +188,29 @@ if __name__ == "__main__":
 
 <br/>
 
-## `// PERFORMANCE_METRICS`
+## What I Build
 
 <div align="center">
 
-<a href="https://github.com/Mazennaji" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mazennaji&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=6d28d9&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" alt="Mazen Naji's GitHub stats"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Mazennaji" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazennaji&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Mazen Naji's most used languages"/>
-</a>
+| Domain | What I Do |
+|:--|:--|
+| **AI Systems** | LLM pipelines · RL agents · computer vision · generative models |
+| **Full-Stack Web** | Scalable APIs · real-time apps · micro-frontends · edge deployments |
+| **Game Development** | Gameplay systems · shader programming · procedural generation · AI NPCs |
+| **Mobile** | Cross-platform apps with Flutter & React Native |
+| **Cloud & DevOps** | Containerised microservices · CI/CD · distributed infrastructure |
 
-<br/><br/>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
 
 <a href="https://github.com/Mazennaji" target="_blank">
   <img src="https://streak-stats.demolab.com?user=Mazennaji&theme=transparent&hide_border=true&background=00000000&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=8b5cf6&dates=6b5fa0&currStreakNum=ffffff&sideNums=e0d0ff&cache_seconds=86400" alt="Mazen Naji's GitHub streak"/>
@@ -177,7 +224,7 @@ if __name__ == "__main__":
 
 <br/>
 
-## `// COMPETITIVE_PROGRAMMING`
+## Competitive Programming
 
 <div align="center">
 
@@ -187,10 +234,10 @@ if __name__ == "__main__":
 
 <br/><br/>
 
-| &nbsp; | Platform | Focus Areas | Link |
-|:--:|:--|:--|:--:|
-| 🟡 | **LeetCode** | Data Structures · Algorithms · Weekly Contests | [![Visit](https://img.shields.io/badge/Open%20Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/MazenNaji/) |
-| 🟢 | **HackerRank** | Problem Solving · Certifications · Rankings | [![Visit](https://img.shields.io/badge/Open%20Profile-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/mazen_naji_1) |
+| Platform | Focus Areas | Link |
+|:--|:--|:--:|
+| **LeetCode** | Data Structures · Algorithms · Weekly Contests | [![Visit](https://img.shields.io/badge/Open%20Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/MazenNaji/) |
+| **HackerRank** | Problem Solving · Certifications · Rankings | [![Visit](https://img.shields.io/badge/Open%20Profile-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/mazen_naji_1) |
 
 </div>
 
@@ -200,70 +247,11 @@ if __name__ == "__main__":
 
 <br/>
 
-## `// GITHUB_TROPHIES`
+## Contribution Snake
 
 <div align="center">
 
-<a href="https://github.com/Mazennaji" target="_blank">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mazennaji&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Mazen Naji's GitHub trophies"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## `// ACTIVITY_GRAPH`
-
-<div align="center">
-
-<a href="https://github.com/Mazennaji" target="_blank">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mazennaji&theme=tokyo-night&bg_color=0d0020&color=a78bfa&line=6d28d9&point=ffffff&area=true&area_color=1a0050&hide_border=true" width="96%" alt="Mazen Naji's contribution activity graph"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## `// CORE_ATTRIBUTES`
-
-<div align="center">
-
-```
-  Systems Design      ████████████████████████████████  ELITE
-  Algorithm Mastery   ██████████████████████████████░░  94%
-  Game Architecture   █████████████████████████████░░░  92%
-  DevOps & Cloud      ████████████████████████████░░░░  90%
-  AI Engineering      ███████████████████████████░░░░░  88%
-  Creative Vision     ████████████████████████████████  MAX
-```
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## `// WHAT_I_BUILD`
-
-<div align="center">
-
-| Domain | What I Do |
-|:--|:--|
-| 🧠 **AI Systems** | LLM pipelines · RL agents · computer vision · generative models |
-| 🌐 **Full-Stack Web** | Scalable APIs · real-time apps · micro-frontends · edge deployments |
-| 🎮 **Game Development** | Gameplay systems · shader programming · procedural generation · AI NPCs |
-| 📱 **Mobile** | Cross-platform apps with Flutter & React Native |
-| ☁️ **Cloud & DevOps** | Containerised microservices · CI/CD · distributed infrastructure |
+<img src="./assets/contribution-snake.svg" alt="GitHub contribution snake animation" width="96%"/>
 
 </div>
 
@@ -305,8 +293,18 @@ if __name__ == "__main__":
 
 <br/>
 
+<hr>
+
+<div align="center">
+<sub>Credit: <a href="https://github.com/Mazennaji">Mazen Naji</a></sub>
+<br/>
+<sub>Last edited on: 02/09/2026</sub>
+</div>
+
+<br/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0040,50:0d0020,100:000000&height=150&section=footer&text=%E2%AD%90%20If%20the%20code%20hits%20different%2C%20drop%20a%20star%20%E2%AD%90&fontSize=14&fontColor=a78bfa&animation=twinkling&fontAlignY=72" alt="If the code hits different, drop a star"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0040,50:0d0020,100:000000&height=150&section=footer&text=If%20the%20code%20hits%20different%2C%20drop%20a%20star&fontSize=14&fontColor=a78bfa&animation=twinkling&fontAlignY=72" alt="If the code hits different, drop a star"/>
 
 </div>
