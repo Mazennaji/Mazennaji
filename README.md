@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:0a0015,40:120025,60:1a0040,80:220055,100:2a0066&height=340&section=header&text=MAZEN%20NAJI&fontSize=95&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Game%20Developer%20%C2%B7%20AI%20Engineer&descSize=16&descAlignY=58&descColor=c4b5fd&stroke=7c3aed&strokeWidth=2" alt="Mazen Naji — Software Engineer · Game Developer · AI Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:0a0015,40:120025,60:1a0040,80:220055,100:2a0066&height=340&section=header&text=MAZEN%20NAJI&fontSize=95&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full%20Stack%20Engineer%20%C2%B7%20AI%20Engineer&descSize=16&descAlignY=58&descColor=c4b5fd&stroke=7c3aed&strokeWidth=2" alt="Mazen Naji, Software Engineer · Full Stack Engineer · AI Engineer"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3200&pause=1400&color=A78BFA&center=true&vCenter=true&width=800&lines=%E2%96%B8+Architecting+systems+that+think+%26+worlds+that+breathe;%E2%96%B8+Neural+networks+to+pixel+shaders+%E2%80%94+full+depth%2C+zero+compromises;%E2%96%B8+Where+engineering+precision+meets+creative+vision;%E2%96%B8+Turning+ambiguous+ideas+into+shipped%2C+scalable+systems" alt="Typing animation of taglines"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3200&pause=1400&color=A78BFA&center=true&vCenter=true&width=860&lines=%E2%96%B8+Full+Stack+Engineer%3A+pixel-perfect+UI+to+distributed+backends;%E2%96%B8+Architecting+systems+that+think+%26+worlds+that+breathe;%E2%96%B8+From+neural+networks+to+pixel+shaders%2C+full+depth+and+no+shortcuts;%E2%96%B8+Where+engineering+precision+meets+creative+vision;%E2%96%B8+Turning+ambiguous+ideas+into+shipped%2C+scalable+systems" alt="Typing animation of taglines"/>
 
 </div>
 
@@ -43,7 +43,7 @@
 
 <br/>
 
-## Who Am I
+## ◈ Who Am I
 
 ```python
 #!/usr/bin/env python3
@@ -51,14 +51,15 @@
 
 class MazenNaji:
     """
-    CS Graduate turned Software Engineer.
-    I don't just write code — I engineer experiences.
+    CS Graduate turned Software Engineer & Full Stack Engineer.
+    I don't just write code. I build experiences.
     """
 
     name       : str  = "Mazen Naji"
-    role       : str  = "Software Engineer · Game Developer · AI Engineer"
+    role       : str  = "Software Engineer · Full Stack Engineer · AI Engineer"
     origin     : str  = "Lebanon"
     status     : str  = "Building systems that are smart, scalable & immersive"
+    stack      : str  = "Frontend → Backend → Database → Cloud → AI"
     learning   : list = [
         "Deep Reinforcement Learning",
         "Procedural World Generation",
@@ -92,22 +93,22 @@ if __name__ == "__main__":
 
 <br/>
 
-## About Me
+## ◈ About Me
 
 <table>
 <tr>
 <td width="60%" valign="middle">
 
-I'm **Mazen** — a software engineer who genuinely loses track of time building things, whether that's a neural net, a multiplayer game server, or a slick full-stack app. I like taking an idea that's still fuzzy in someone's head and turning it into something real, fast, and built to last.
+I'm **Mazen**, a software engineer and **full stack engineer** who loses track of time when I'm building. It could be a neural net, a multiplayer game server, or an end-to-end web app. I love taking an idea that's still fuzzy in someone's head and making it real, fast, and solid enough to last. I'm happy owning everything from the **interface** to the **API** to the **infrastructure** underneath.
 
 Right now I'm deep in **Deep Reinforcement Learning** and **procedural world generation**, and slowly leveling up my **distributed systems** game. I'm the kind of person who reads the docs *and* the source code, and who'll happily fall down a rabbit hole at 2am chasing one weird bug.
 
-I also genuinely enjoy contributing to open source and collaborating with people who care about craft as much as I do — if that's you, my inbox is open.
+I also genuinely enjoy contributing to open source and collaborating with people who care about craft as much as I do. If that's you, my inbox is open.
 
-- Currently building: AI pipelines, gameplay systems & scalable backends
-- Currently leveling up: RL, procedural generation, distributed systems
-- Always down for: open-source collabs, hackathons, ambitious side projects
-- Fun fact: my sleep schedule is best described as "negotiable"
+- **Currently building:** AI pipelines, gameplay systems & scalable full-stack products
+- **Currently leveling up:** RL, procedural generation, distributed systems
+- **Always down for:** open-source collabs, hackathons, ambitious side projects
+- **Fun fact:** my sleep schedule is best described as "negotiable"
 
 </td>
 <td width="40%" align="center">
@@ -124,7 +125,7 @@ I also genuinely enjoy contributing to open source and collaborating with people
 
 <br/>
 
-## Tech Arsenal
+## ◈ Tech Arsenal
 
 <br/>
 
@@ -136,7 +137,7 @@ I also genuinely enjoy contributing to open source and collaborating with people
 <br/>
 <img src="https://skillicons.dev/icons?i=go,rust,php,c,cs&theme=dark&perline=5" alt="Go, Rust, PHP, C, C#" />
 <br/>
-<img src="https://skillicons.dev/icons?i=lua,kotlin,dart,bash,scala,perl,haskell&theme=dark&perline=5" alt="Lua, Kotlin, Dart, Bash, Scala, Perl, Haskell" />
+<img src="https://skillicons.dev/icons?i=lua,kotlin,dart,bash,scala,perl,haskell&theme=dark&perline=7" alt="Lua, Kotlin, Dart, Bash, Scala, Perl, Haskell" />
 
 <br/><br/>
 
@@ -188,14 +189,15 @@ I also genuinely enjoy contributing to open source and collaborating with people
 
 <br/>
 
-## What I Build
+## ◈ What I Build
 
 <div align="center">
 
 | Domain | What I Do |
 |:--|:--|
+| **Full Stack Engineering** | End-to-end products · responsive frontends · scalable APIs · auth & data modeling · CI/CD to production |
 | **AI Systems** | LLM pipelines · RL agents · computer vision · generative models |
-| **Full-Stack Web** | Scalable APIs · real-time apps · micro-frontends · edge deployments |
+| **Web Platforms** | Real-time apps · micro-frontends · edge deployments · design-system-driven UIs |
 | **Game Development** | Gameplay systems · shader programming · procedural generation · AI NPCs |
 | **Mobile** | Cross-platform apps with Flutter & React Native |
 | **Cloud & DevOps** | Containerised microservices · CI/CD · distributed infrastructure |
@@ -208,13 +210,34 @@ I also genuinely enjoy contributing to open source and collaborating with people
 
 <br/>
 
-## GitHub Stats
+## ◈ How I Ship
 
 <div align="center">
 
-<a href="https://github.com/Mazennaji" target="_blank">
-  <img src="https://streak-stats.demolab.com?user=Mazennaji&theme=transparent&hide_border=true&background=00000000&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=8b5cf6&dates=6b5fa0&currStreakNum=ffffff&sideNums=e0d0ff&cache_seconds=86400" alt="Mazen Naji's GitHub streak"/>
-</a>
+```mermaid
+flowchart LR
+    A([Idea]) --> B[Architecture<br/>& Data Model]
+    B --> C[Backend<br/>APIs & Services]
+    B --> D[Frontend<br/>UI & UX]
+    C --> E[Test &<br/>Containerise]
+    D --> E
+    E --> F[CI/CD<br/>Deploy]
+    F --> G([Production])
+    G -.->|feedback| A
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| ◈ Principle | What it means |
+|:--|:--|
+| **Own the whole stack** | I'm comfortable from the CSS to the database index, and everything in between |
+| **Design for scale early** | Clean boundaries, observable services, no accidental monoliths |
+| **Performance is a feature** | Profile first, optimise with evidence, ship fast experiences |
+| **Craft over hype** | Boring, reliable foundations beat trendy rewrites |
 
 </div>
 
@@ -224,7 +247,33 @@ I also genuinely enjoy contributing to open source and collaborating with people
 
 <br/>
 
-## Competitive Programming
+## ◈ GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/Mazennaji" target="_blank">
+  <img src="https://streak-stats.demolab.com?user=Mazennaji&theme=transparent&hide_border=true&background=00000000&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=8b5cf6&dates=6b5fa0&currStreakNum=ffffff&sideNums=e0d0ff&cache_seconds=86400" alt="Mazen Naji's GitHub streak"/>
+</a>
+
+<br/><br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mazennaji&show_icons=true&hide_border=true&bg_color=0d002000&title_color=a78bfa&icon_color=8b5cf6&text_color=e0d0ff&ring_color=6d28d9&count_private=true" alt="Mazen Naji's GitHub stats"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazennaji&layout=compact&hide_border=true&bg_color=0d002000&title_color=a78bfa&text_color=e0d0ff&langs_count=8" alt="Mazen Naji's top languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mazennaji&bg_color=0d0020&color=a78bfa&line=6d28d9&point=ffffff&area=true&area_color=6d28d9&hide_border=true&radius=12" alt="Mazen Naji's contribution activity graph" width="96%"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## ◈ Competitive Programming
 
 <div align="center">
 
@@ -247,7 +296,7 @@ I also genuinely enjoy contributing to open source and collaborating with people
 
 <br/>
 
-## Contribution Snake
+## ◈ Contribution Snake
 
 <div align="center">
 
@@ -261,11 +310,18 @@ I also genuinely enjoy contributing to open source and collaborating with people
 
 <br/>
 
+## ◈ Let's Build Something
+
 <div align="center">
 
-> *"The best way to predict the future is to invent it."*
->
-> — **Alan Kay**
+Got a product idea, an AI experiment, or a game world that needs an engineer?<br/>
+**I'd love to hear about it.**
+
+<br/>
+
+[![Email Me](https://img.shields.io/badge/Email%20Me-6d28d9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0020)](mailto:mazen.naji.1@gmail.com)&nbsp;
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0020)](https://www.linkedin.com/in/mazen-naji/)&nbsp;
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0020)](https://mazennaji.dev)
 
 </div>
 
@@ -277,11 +333,23 @@ I also genuinely enjoy contributing to open source and collaborating with people
 
 <div align="center">
 
+> *"The best way to predict the future is to invent it."*
+>
+> Alan Kay
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ![Collab](https://img.shields.io/badge/Open%20to-Collaborations-6d28d9?style=for-the-badge&labelColor=0d0020)
+&nbsp;
+![Role](https://img.shields.io/badge/Role-Full%20Stack%20Engineer-8b5cf6?style=for-the-badge&labelColor=0d0020)
 &nbsp;
 ![Status](https://img.shields.io/badge/Status-Building%20%26%20Shipping-a78bfa?style=for-the-badge&labelColor=0d0020)
 &nbsp;
-![CP](https://img.shields.io/badge/Competitive-Coding%20Active-8b5cf6?style=for-the-badge&labelColor=0d0020)
+![CP](https://img.shields.io/badge/Competitive-Coding%20Active-7c3aed?style=for-the-badge&labelColor=0d0020)
 
 </div>
 
@@ -298,7 +366,7 @@ I also genuinely enjoy contributing to open source and collaborating with people
 <div align="center">
 <sub>Credit: <a href="https://github.com/Mazennaji">Mazen Naji</a></sub>
 <br/>
-<sub>Last edited on: 02/09/2026</sub>
+<sub>Last edited on: 10/03/2026</sub>
 </div>
 
 <br/>
