@@ -143,11 +143,11 @@ I also genuinely enjoy contributing to open source and collaborating with people
 
 ### ◈ Web & Backend
 
-<img src="https://skillicons.dev/icons?i=react,next,nuxt,vue,angular,svelte&theme=dark&perline=6" alt="React, Next.js, Nuxt, Vue, Angular, Svelte" />
+<img src="https://skillicons.dev/icons?i=react,next,nuxt,vue,angular,svelte,astro&theme=dark&perline=7" alt="React, Next.js, Nuxt, Vue, Angular, Svelte, Astro" />
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,laravel,spring,nestjs&theme=dark&perline=6" alt="Node.js, FastAPI, Django, Laravel, Spring, NestJS" />
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,laravel,spring,nestjs,sequelize,rabbitmq&theme=dark&perline=9" alt="Node.js, FastAPI, Django, Laravel, Spring, NestJS, Sequelize, RabbitMQ" />
 <br/>
-<img src="https://skillicons.dev/icons?i=graphql,tailwind,threejs,html,css,jquery&theme=dark&perline=6" alt="GraphQL, Tailwind, Three.js, HTML, CSS, jQuery" />
+<img src="https://skillicons.dev/icons?i=graphql,tailwind,threejs,html,css,jquery,bootstrap&theme=dark&perline=7" alt="GraphQL, Tailwind, Three.js, HTML, CSS, jQuery, Bootstrap" />
 
 <br/><br/>
 
