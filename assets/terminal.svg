@@ -22,9 +22,9 @@
 <g clip-path="url(#c1)"><text x="32" y="92"><tspan fill="#8b5cf6">$</tspan><tspan fill="#e0d0ff"> whoami</tspan></text></g>
 <g clip-path="url(#c2)"><text x="32" y="122" fill="#c4b5fd">mazen naji · software engineer · full stack · ai</text></g>
 <g clip-path="url(#c3)"><text x="32" y="165"><tspan fill="#8b5cf6">$</tspan><tspan fill="#e0d0ff"> cat stack.json</tspan></text></g>
-<g clip-path="url(#c4)"><text x="32" y="195" fill="#e0d0ff">{ <tspan fill="#a78bfa">"core"</tspan>: [<tspan fill="#86efac">"TypeScript"</tspan>, <tspan fill="#86efac">"C#"</tspan>, <tspan fill="#86efac">"Python"</tspan>],</text></g>
+<g clip-path="url(#c4)"><text x="32" y="195" fill="#e0d0ff">{ <tspan fill="#a78bfa">"core"</tspan>: [<tspan fill="#86efac">"TypeScript"</tspan>, <tspan fill="#86efac">"Java"</tspan>, <tspan fill="#86efac">"Python"</tspan>],</text></g>
 <g clip-path="url(#c5)"><text x="32" y="222" fill="#e0d0ff">  <tspan fill="#a78bfa">"ai"</tspan>: [<tspan fill="#86efac">"PyTorch"</tspan>, <tspan fill="#86efac">"RL"</tspan>, <tspan fill="#86efac">"LLM pipelines"</tspan>],</text></g>
-<g clip-path="url(#c6)"><text x="32" y="249" fill="#e0d0ff">  <tspan fill="#a78bfa">"web"</tspan>: [<tspan fill="#86efac">"React"</tspan>, <tspan fill="#86efac">"Next.js"</tspan>, <tspan fill="#86efac">"NestJS"</tspan>, <tspan fill="#86efac">"Django"</tspan>],</text></g>
+<g clip-path="url(#c6)"><text x="32" y="249" fill="#e0d0ff">  <tspan fill="#a78bfa">"web"</tspan>: [<tspan fill="#86efac">"Spring Boot"</tspan>, <tspan fill="#86efac">"Next.js"</tspan>, <tspan fill="#86efac">"NestJS"</tspan>, <tspan fill="#86efac">"Django"</tspan>],</text></g>
 <g clip-path="url(#c7)"><text x="32" y="276" fill="#e0d0ff">  <tspan fill="#a78bfa">"status"</tspan>: <tspan fill="#86efac">"building &amp; shipping"</tspan> }</text></g>
 <text x="32" y="313" fill="#8b5cf6">$</text>
 </g>
