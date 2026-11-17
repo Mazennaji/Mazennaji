@@ -73,14 +73,13 @@ Right now I'm going deep on **reinforcement learning**, **procedural world gener
 
 <div align="center">
 
+<!--PROJECTS:START-->
+
 | Project | Stack | What it does |
 |:--|:--|:--|
-| **CEDAR Chatbot** | Django · Reinforcement Learning | Trilingual chatbot with an RL module that improves responses over time |
-| **MindMap AI** | Next.js · React · 3D | Turns PDFs and notes into interactive 3D knowledge maps for studying |
-| **LocalLoop** | React Native · Supabase · PostGIS | Hyperlocal neighborhood app with real-time, location-aware features |
-| **CineBook** | C# · WinForms | Desktop movie ticket booking application |
-| **InventoryManager** | C# · WinForms · SQL Server | Inventory and product management with a SQL Server backend |
-| **SensorFlow** | NestJS · Sequelize · Knex.js | Planned IoT sensor platform with batched ingestion and downsampling |
+| **[CEDAR Chatbot](https://github.com/Mazennaji/cedar-chatbot)** | Python | Trilingual chatbot with an RL module |
+
+<!--PROJECTS:END-->
 
 [Browse all repositories](https://github.com/Mazennaji?tab=repositories)
 
@@ -131,19 +130,11 @@ Right now I'm going deep on **reinforcement learning**, **procedural world gener
 
 <div align="center">
 
-<a href="https://github.com/Mazennaji">
-<img src="https://streak-stats.demolab.com?user=Mazennaji&theme=transparent&hide_border=true&background=00000000&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=8b5cf6&dates=6b5fa0&currStreakNum=ffffff&sideNums=e0d0ff&cache_seconds=86400" alt="GitHub streak"/>
-</a>
+<img src="./assets/streak.svg" alt="GitHub streak" width="100%"/>
 
-<br/><br/>
+<br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mazennaji&show_icons=true&hide_border=true&bg_color=0d002000&title_color=a78bfa&icon_color=8b5cf6&text_color=e0d0ff&ring_color=6d28d9&count_private=true" alt="GitHub stats"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazennaji&layout=compact&hide_border=true&bg_color=0d002000&title_color=a78bfa&text_color=e0d0ff&langs_count=8" alt="Top languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mazennaji&bg_color=0d0020&color=a78bfa&line=6d28d9&point=ffffff&area=true&area_color=6d28d9&hide_border=true&radius=12" alt="Contribution activity" width="96%"/>
+<img src="./assets/stats.svg" alt="GitHub stats" width="49%"/>&nbsp;<img src="./assets/languages.svg" alt="Top languages" width="49%"/>
 
 </div>
 
@@ -190,7 +181,7 @@ Got a product idea, an AI experiment, or a game world that needs an engineer?
 > *"The best way to predict the future is to invent it."*
 > Alan Kay
 
-<sub>Last edited on: 11/16/2026</sub>
+<sub>Last updated: <!--UPDATED:START-->Nov 17, 2026<!--UPDATED:END--></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0040,50:0d0020,100:000000&height=150&section=footer&text=If%20the%20code%20hits%20different%2C%20drop%20a%20star&fontSize=14&fontColor=a78bfa&animation=twinkling&fontAlignY=72" alt="Footer"/>
 
