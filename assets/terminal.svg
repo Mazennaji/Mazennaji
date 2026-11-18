@@ -4,28 +4,28 @@
 <stop offset="0" stop-color="#7c3aed"/>
 <stop offset="1" stop-color="#2a0066"/>
 </linearGradient>
-<clipPath id="c1"><rect x="32" y="74" height="26" width="0"><animate attributeName="width" values="0;0;80;80;0" keyTimes="0;0.02;0.06;0.95;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
-<clipPath id="c2"><rect x="32" y="104" height="26" width="0"><animate attributeName="width" values="0;0;470;470;0" keyTimes="0;0.08;0.18;0.95;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
-<clipPath id="c3"><rect x="32" y="147" height="26" width="0"><animate attributeName="width" values="0;0;165;165;0" keyTimes="0;0.22;0.27;0.95;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
-<clipPath id="c4"><rect x="32" y="177" height="26" width="0"><animate attributeName="width" values="0;0;410;410;0" keyTimes="0;0.30;0.38;0.95;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
-<clipPath id="c5"><rect x="32" y="204" height="26" width="0"><animate attributeName="width" values="0;0;430;430;0" keyTimes="0;0.39;0.47;0.95;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
-<clipPath id="c6"><rect x="32" y="231" height="26" width="0"><animate attributeName="width" values="0;0;490;490;0" keyTimes="0;0.48;0.56;0.95;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
-<clipPath id="c7"><rect x="32" y="258" height="26" width="0"><animate attributeName="width" values="0;0;360;360;0" keyTimes="0;0.57;0.64;0.95;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c0"><rect x="32" y="74" height="26" width="0"><animate attributeName="width" values="0;0;84;84;0" keyTimes="0;0.02;0.06;0.95;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c1"><rect x="32" y="104" height="26" width="0"><animate attributeName="width" values="0;0;472;472;0" keyTimes="0;0.08;0.18;0.95;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c2"><rect x="32" y="147" height="26" width="0"><animate attributeName="width" values="0;0;162;162;0" keyTimes="0;0.22;0.27;0.95;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c3"><rect x="32" y="177" height="26" width="0"><animate attributeName="width" values="0;0;385;385;0" keyTimes="0;0.3;0.38;0.95;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c4"><rect x="32" y="204" height="26" width="0"><animate attributeName="width" values="0;0;424;424;0" keyTimes="0;0.39;0.47;0.95;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c5"><rect x="32" y="231" height="26" width="0"><animate attributeName="width" values="0;0;491;491;0" keyTimes="0;0.48;0.56;0.95;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c6"><rect x="32" y="258" height="26" width="0"><animate attributeName="width" values="0;0;433;433;0" keyTimes="0;0.57;0.64;0.95;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
 </defs>
 <rect x="1" y="1" width="898" height="338" rx="16" fill="#0b0614" stroke="url(#frame)" stroke-width="2"/>
 <path d="M1 38V17a16 16 0 0 1 16-16H883a16 16 0 0 1 16 16V38Z" fill="#150a28"/>
 <circle cx="28" cy="20" r="6" fill="#ff5f57"/>
 <circle cx="50" cy="20" r="6" fill="#febc2e"/>
 <circle cx="72" cy="20" r="6" fill="#28c840"/>
-<text x="450" y="25" text-anchor="middle" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" fill="#8b7bb8">mazen@naji: ~/profile</text>
+<text x="450" y="25" text-anchor="middle" font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="13" fill="#8b7bb8">mazennaji@dev: ~/profile</text>
 <g font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace" font-size="16">
-<g clip-path="url(#c1)"><text x="32" y="92"><tspan fill="#8b5cf6">$</tspan><tspan fill="#e0d0ff"> whoami</tspan></text></g>
-<g clip-path="url(#c2)"><text x="32" y="122" fill="#c4b5fd">mazen naji · software engineer · full stack · ai</text></g>
-<g clip-path="url(#c3)"><text x="32" y="165"><tspan fill="#8b5cf6">$</tspan><tspan fill="#e0d0ff"> cat stack.json</tspan></text></g>
-<g clip-path="url(#c4)"><text x="32" y="195" fill="#e0d0ff">{ <tspan fill="#a78bfa">"core"</tspan>: [<tspan fill="#86efac">"TypeScript"</tspan>, <tspan fill="#86efac">"Java"</tspan>, <tspan fill="#86efac">"Python"</tspan>],</text></g>
-<g clip-path="url(#c5)"><text x="32" y="222" fill="#e0d0ff">  <tspan fill="#a78bfa">"ai"</tspan>: [<tspan fill="#86efac">"PyTorch"</tspan>, <tspan fill="#86efac">"RL"</tspan>, <tspan fill="#86efac">"LLM pipelines"</tspan>],</text></g>
-<g clip-path="url(#c6)"><text x="32" y="249" fill="#e0d0ff">  <tspan fill="#a78bfa">"web"</tspan>: [<tspan fill="#86efac">"Spring Boot"</tspan>, <tspan fill="#86efac">"Next.js"</tspan>, <tspan fill="#86efac">"NestJS"</tspan>, <tspan fill="#86efac">"Django"</tspan>],</text></g>
-<g clip-path="url(#c7)"><text x="32" y="276" fill="#e0d0ff">  <tspan fill="#a78bfa">"status"</tspan>: <tspan fill="#86efac">"building &amp; shipping"</tspan> }</text></g>
+<g clip-path="url(#c0)"><text x="32" y="92" xml:space="preserve"><tspan fill="#8b5cf6">$</tspan><tspan fill="#e0d0ff"> whoami</tspan></text></g>
+<g clip-path="url(#c1)"><text x="32" y="122" xml:space="preserve"><tspan fill="#c4b5fd">mazen naji · software engineer · full stack · ai</tspan></text></g>
+<g clip-path="url(#c2)"><text x="32" y="165" xml:space="preserve"><tspan fill="#8b5cf6">$</tspan><tspan fill="#e0d0ff"> cat stack.json</tspan></text></g>
+<g clip-path="url(#c3)"><text x="32" y="195" xml:space="preserve"><tspan fill="#e0d0ff">{ </tspan><tspan fill="#a78bfa">"core"</tspan><tspan fill="#e0d0ff">: [</tspan><tspan fill="#86efac">"TypeScript"</tspan><tspan fill="#e0d0ff">, </tspan><tspan fill="#86efac">"PHP"</tspan><tspan fill="#e0d0ff">, </tspan><tspan fill="#86efac">"C++"</tspan><tspan fill="#e0d0ff">],</tspan></text></g>
+<g clip-path="url(#c4)"><text x="32" y="222" xml:space="preserve"><tspan fill="#e0d0ff">  </tspan><tspan fill="#a78bfa">"ai"</tspan><tspan fill="#e0d0ff">: [</tspan><tspan fill="#86efac">"PyTorch"</tspan><tspan fill="#e0d0ff">, </tspan><tspan fill="#86efac">"RL"</tspan><tspan fill="#e0d0ff">, </tspan><tspan fill="#86efac">"LLM pipelines"</tspan><tspan fill="#e0d0ff">],</tspan></text></g>
+<g clip-path="url(#c5)"><text x="32" y="249" xml:space="preserve"><tspan fill="#e0d0ff">  </tspan><tspan fill="#a78bfa">"web"</tspan><tspan fill="#e0d0ff">: [</tspan><tspan fill="#86efac">"React"</tspan><tspan fill="#e0d0ff">, </tspan><tspan fill="#86efac">"Next.js"</tspan><tspan fill="#e0d0ff">, </tspan><tspan fill="#86efac">"NestJS"</tspan><tspan fill="#e0d0ff">, </tspan><tspan fill="#86efac">"Django"</tspan><tspan fill="#e0d0ff">],</tspan></text></g>
+<g clip-path="url(#c6)"><text x="32" y="276" xml:space="preserve"><tspan fill="#e0d0ff">  </tspan><tspan fill="#a78bfa">"repos"</tspan><tspan fill="#e0d0ff">: 77, </tspan><tspan fill="#a78bfa">"stars"</tspan><tspan fill="#e0d0ff">: 3, </tspan><tspan fill="#a78bfa">"followers"</tspan><tspan fill="#e0d0ff">: 14 }</tspan></text></g>
 <text x="32" y="313" fill="#8b5cf6">$</text>
 </g>
 <rect x="52" y="299" width="10" height="18" fill="#a78bfa">

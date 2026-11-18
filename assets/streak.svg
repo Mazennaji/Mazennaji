@@ -40,21 +40,21 @@
 <animate attributeName="r" values="80;102;80" dur="4s" repeatCount="indefinite"/>
 </circle>
 <g fill="#c4b5fd">
-<circle cx="90" cy="230" r="1.8"><animate attributeName="cy" from="230" to="-10" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="8s" repeatCount="indefinite"/></circle>
-<circle cx="260" cy="230" r="1.4"><animate attributeName="cy" from="230" to="-10" dur="6s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.7;0" dur="6s" begin="1s" repeatCount="indefinite"/></circle>
+<circle cx="90" cy="230" r="1.8"><animate attributeName="cy" from="230" to="-10" dur="8s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="8s" begin="0s" repeatCount="indefinite"/></circle>
+<circle cx="260" cy="230" r="1.4"><animate attributeName="cy" from="230" to="-10" dur="6s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="6s" begin="1s" repeatCount="indefinite"/></circle>
 <circle cx="430" cy="230" r="2"><animate attributeName="cy" from="230" to="-10" dur="9s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="9s" begin="2s" repeatCount="indefinite"/></circle>
-<circle cx="580" cy="230" r="1.4"><animate attributeName="cy" from="230" to="-10" dur="7s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.7;0" dur="7s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="580" cy="230" r="1.4"><animate attributeName="cy" from="230" to="-10" dur="7s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="7s" begin="0.5s" repeatCount="indefinite"/></circle>
 <circle cx="760" cy="230" r="1.8"><animate attributeName="cy" from="230" to="-10" dur="8.5s" begin="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="8.5s" begin="3s" repeatCount="indefinite"/></circle>
-<circle cx="910" cy="230" r="1.4"><animate attributeName="cy" from="230" to="-10" dur="6.5s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.7;0" dur="6.5s" begin="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="910" cy="230" r="1.4"><animate attributeName="cy" from="230" to="-10" dur="6.5s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="6.5s" begin="1.5s" repeatCount="indefinite"/></circle>
 </g>
-<rect x="333" y="40" width="1.5" height="140" fill="url(#div)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.3s" fill="freeze"/></rect>
-<rect x="667" y="40" width="1.5" height="140" fill="url(#div)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.5s" fill="freeze"/></rect>
+<rect x="333" y="40" width="1.5" height="140" fill="url(#div)"/>
+<rect x="667" y="40" width="1.5" height="140" fill="url(#div)"/>
 <g font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">
 <g opacity="0">
 <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="0.2s" fill="freeze"/>
 <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" dur="0.9s" begin="0.2s" fill="freeze"/>
-<text x="167" y="108" font-size="46" font-weight="800" fill="#7c3aed" filter="url(#glow)" opacity="0.6">5,775</text>
-<text x="167" y="108" font-size="46" font-weight="800" fill="url(#num)">5,775</text>
+<text x="167" y="108" font-size="46" font-weight="800" fill="#7c3aed" filter="url(#glow)" opacity="0.6">5,882</text>
+<text x="167" y="108" font-size="46" font-weight="800" fill="url(#num)">5,882</text>
 <text x="167" y="142" font-size="16" fill="#a78bfa">Total Contributions</text>
 <text x="167" y="166" font-size="12" fill="#6b5fa0">Oct 19, 2024 – Present</text>
 </g>
@@ -72,14 +72,14 @@
 <circle cx="500" cy="48" r="5" fill="#ddd6fe" filter="url(#glow)"/>
 <circle cx="500" cy="48" r="2.5" fill="#ffffff"/>
 </g>
-<text x="500" y="112" font-size="40" font-weight="800" fill="#ffffff">6</text>
+<text x="500" y="112" font-size="40" font-weight="800" fill="#ffffff">7</text>
 <g transform="translate(500 26)">
 <path d="M0 -14 C6 -6 10 -2 10 4 A10 10 0 0 1 -10 4 C-10 -2 -4 -6 0 -14Z" fill="url(#flame)">
 <animateTransform attributeName="transform" type="scale" values="1 1;1.12 0.92;0.94 1.1;1 1" dur="1.6s" repeatCount="indefinite"/>
 </path>
 </g>
 <text x="500" y="182" font-size="16" font-weight="700" fill="#a78bfa">Current Streak</text>
-<text x="500" y="204" font-size="12" fill="#6b5fa0">Nov 11 – Nov 16</text>
+<text x="500" y="204" font-size="12" fill="#6b5fa0">Nov 11 – Nov 17</text>
 </g>
 <g opacity="0">
 <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="0.6s" fill="freeze"/>
