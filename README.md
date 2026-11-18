@@ -21,6 +21,15 @@
 
 <br/><br/>
 
+<a href="#about"><img src="./assets/nav-about.svg" alt="About"/></a>&nbsp;
+<a href="#selected-work"><img src="./assets/nav-selected-work.svg" alt="Work"/></a>&nbsp;
+<a href="#journey"><img src="./assets/nav-journey.svg" alt="Journey"/></a>&nbsp;
+<a href="#tech-arsenal"><img src="./assets/nav-tech-arsenal.svg" alt="Stack"/></a>&nbsp;
+<a href="#github-stats"><img src="./assets/nav-github-stats.svg" alt="Stats"/></a>&nbsp;
+<a href="#lets-build-something"><img src="./assets/nav-lets-build-something.svg" alt="Contact"/></a>
+
+<br/><br/>
+
 <img src="./assets/marquee.svg" alt="Animated stack marquee" width="100%"/>
 
 <img src="./assets/divider.svg" alt="" width="70%"/>
@@ -73,13 +82,24 @@ Right now I'm going deep on **reinforcement learning**, **procedural world gener
 
 <div align="center">
 
-<!--PROJECTS:START-->
+<!--CARDS:START-->
 
-| Project | Stack | What it does |
-|:--|:--|:--|
-| **[CEDAR Chatbot](https://github.com/Mazennaji/cedar-chatbot)** | Python | Trilingual chatbot with an RL module |
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Mazennaji/rlhf-agent-alignment-lab"><img src="./assets/project-1.svg" alt="rlhf-agent-alignment-lab" width="100%"/></a></td>
+<td width="50%" valign="top"><a href="https://github.com/Mazennaji/loomstack-erp"><img src="./assets/project-2.svg" alt="loomstack-erp" width="100%"/></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Mazennaji/raftkv"><img src="./assets/project-3.svg" alt="raftkv" width="100%"/></a></td>
+<td width="50%" valign="top"><a href="https://github.com/Mazennaji/ridepin-platform"><img src="./assets/project-4.svg" alt="ridepin-platform" width="100%"/></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Mazennaji/flyrank-capstone-metering-billing"><img src="./assets/project-5.svg" alt="flyrank-capstone-metering-billing" width="100%"/></a></td>
+<td width="50%" valign="top"><a href="https://github.com/Mazennaji/unwind"><img src="./assets/project-6.svg" alt="unwind" width="100%"/></a></td>
+</tr>
+</table>
 
-<!--PROJECTS:END-->
+<!--CARDS:END-->
 
 [Browse all repositories](https://github.com/Mazennaji?tab=repositories)
 
@@ -87,6 +107,12 @@ Right now I'm going deep on **reinforcement learning**, **procedural world gener
 
 <div align="center">
 <img src="./assets/divider.svg" alt="" width="70%"/>
+</div>
+
+## Journey
+
+<div align="center">
+<img src="./assets/timeline.svg" alt="Timeline of education and experience" width="100%"/>
 </div>
 
 ## Tech Arsenal

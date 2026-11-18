@@ -9,6 +9,8 @@ on:
     paths:
       - scripts/generate-stats.mjs
       - scripts/generate-profile.mjs
+      - scripts/generate-sections.mjs
+      - data/timeline.json
 
 permissions:
   contents: write
@@ -26,6 +28,10 @@ jobs:
           GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           GH_LOGIN: Mazennaji
       - run: node scripts/generate-profile.mjs
+        env:
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_LOGIN: Mazennaji
+      - run: node scripts/generate-sections.mjs
         env:
           GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           GH_LOGIN: Mazennaji
