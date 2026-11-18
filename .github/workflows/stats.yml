@@ -10,6 +10,7 @@ on:
       - scripts/generate-stats.mjs
       - scripts/generate-profile.mjs
       - scripts/generate-sections.mjs
+      - scripts/generate-activity.mjs
       - data/timeline.json
 
 permissions:
@@ -32,6 +33,10 @@ jobs:
           GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           GH_LOGIN: Mazennaji
       - run: node scripts/generate-sections.mjs
+        env:
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_LOGIN: Mazennaji
+      - run: node scripts/generate-activity.mjs
         env:
           GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           GH_LOGIN: Mazennaji

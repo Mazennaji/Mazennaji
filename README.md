@@ -82,13 +82,24 @@ Right now I'm going deep on **reinforcement learning**, **procedural world gener
 
 <div align="center">
 
-<!--PROJECTS:START-->
+<!--CARDS:START-->
 
-| Project | Stack | What it does |
-|:--|:--|:--|
-| **[CEDAR Chatbot](https://github.com/Mazennaji/cedar-chatbot)** | Python | Trilingual chatbot with an RL module |
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Mazennaji/rlhf-agent-alignment-lab"><img src="./assets/project-1.svg" alt="rlhf-agent-alignment-lab" width="100%"/></a></td>
+<td width="50%" valign="top"><a href="https://github.com/Mazennaji/loomstack-erp"><img src="./assets/project-2.svg" alt="loomstack-erp" width="100%"/></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Mazennaji/raftkv"><img src="./assets/project-3.svg" alt="raftkv" width="100%"/></a></td>
+<td width="50%" valign="top"><a href="https://github.com/Mazennaji/ridepin-platform"><img src="./assets/project-4.svg" alt="ridepin-platform" width="100%"/></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Mazennaji/flyrank-capstone-metering-billing"><img src="./assets/project-5.svg" alt="flyrank-capstone-metering-billing" width="100%"/></a></td>
+<td width="50%" valign="top"><a href="https://github.com/Mazennaji/unwind"><img src="./assets/project-6.svg" alt="unwind" width="100%"/></a></td>
+</tr>
+</table>
 
-<!--PROJECTS:END-->
+<!--CARDS:END-->
 
 [Browse all repositories](https://github.com/Mazennaji?tab=repositories)
 
@@ -153,6 +164,12 @@ Right now I'm going deep on **reinforcement learning**, **procedural world gener
 
 </div>
 
+## Recent Activity
+
+<div align="center">
+<img src="./assets/activity.svg" alt="Recent public GitHub activity" width="100%"/>
+</div>
+
 ## Competitive Programming
 
 <div align="center">
@@ -196,7 +213,7 @@ Got a product idea, an AI experiment, or a game world that needs an engineer?
 > *"The best way to predict the future is to invent it."*
 > Alan Kay
 
-<sub>Last updated: <!--UPDATED:START-->Nov 18, 2026<!--UPDATED:END--></sub>
+<sub>Last updated: <!--UPDATED:START-->Nov 17, 2026<!--UPDATED:END--></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0040,50:0d0020,100:000000&height=150&section=footer&text=If%20the%20code%20hits%20different%2C%20drop%20a%20star&fontSize=14&fontColor=a78bfa&animation=twinkling&fontAlignY=72" alt="Footer"/>
 
