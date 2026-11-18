@@ -86,7 +86,12 @@ Right now I'm going deep on **reinforcement learning**, **procedural world gener
 
 | Project | Stack | What it does |
 |:--|:--|:--|
-| **[CEDAR Chatbot](https://github.com/Mazennaji/cedar-chatbot)** | Python | Trilingual chatbot with an RL module |
+| **[ai-intelligence-platform-java-ml](https://github.com/Mazennaji/ai-intelligence-platform-java-ml)** | Java · ★ 1 | An all-in-one Java Machine Learning platform integrating fraud detection, regression, NLP, recommendation systems, and deep learning with Spring Boot REST APIs and production-ready ML pipelines. |
+| **[developers-community-platform](https://github.com/Mazennaji/developers-community-platform)** | TypeScript | A full stack developer community built with Next.js 16, GitHub authentication, MongoDB, and server-side rendering. |
+| **[mindmap-ai](https://github.com/Mazennaji/mindmap-ai)** | TypeScript | AI-powered 3D knowledge mapping platform, build interactive concept maps from PDFs, study with an AI tutor, collaborate in real-time, and track your progress. Built with Next.js, Supabase, Firebase, Three.js, GSAP, Framer Motion, and React Native. |
+| **[cedar-chatbot](https://github.com/Mazennaji/cedar-chatbot)** | Python | A trilingual (English, Arabic, Lebanese dialect) context-aware chatbot built with Hugging Face Transformers, featuring Lebanese Arabizi normalization, conversation memory, a FastAPI backend, and a Streamlit chat UI. |
+| **[it-helpdesk-ticketing-system](https://github.com/Mazennaji/it-helpdesk-ticketing-system)** | C# | Full-stack IT Help Desk & Ticketing system built with React, ASP.NET Core & SQL Server. Employees submit and track tickets while agents manage assignment, priority, and resolution from a central dashboard. Features JWT auth, role-based access, real-time notifications, and OpenAI-powered categorization. |
+| **[ridepin-platform](https://github.com/Mazennaji/ridepin-platform)** | Dart | A full-stack ride-booking platform built with Laravel, Flutter, and Filament that connects riders and drivers through secure APIs, ride lifecycle management, driver availability, payments, ratings, and role-based workflows. |
 
 <!--PROJECTS:END-->
 
