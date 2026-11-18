@@ -53,8 +53,8 @@
 <g opacity="0">
 <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="0.2s" fill="freeze"/>
 <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" dur="0.9s" begin="0.2s" fill="freeze"/>
-<text x="167" y="108" font-size="46" font-weight="800" fill="#7c3aed" filter="url(#glow)" opacity="0.6">5,924</text>
-<text x="167" y="108" font-size="46" font-weight="800" fill="url(#num)">5,924</text>
+<text x="167" y="108" font-size="46" font-weight="800" fill="#7c3aed" filter="url(#glow)" opacity="0.6">5,926</text>
+<text x="167" y="108" font-size="46" font-weight="800" fill="url(#num)">5,926</text>
 <text x="167" y="142" font-size="16" fill="#a78bfa">Total Contributions</text>
 <text x="167" y="166" font-size="12" fill="#6b5fa0">Oct 19, 2024 – Present</text>
 </g>
