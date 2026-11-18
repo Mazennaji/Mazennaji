@@ -82,24 +82,13 @@ Right now I'm going deep on **reinforcement learning**, **procedural world gener
 
 <div align="center">
 
-<!--CARDS:START-->
+<!--PROJECTS:START-->
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/Mazennaji/rlhf-agent-alignment-lab"><img src="./assets/project-1.svg" alt="rlhf-agent-alignment-lab" width="100%"/></a></td>
-<td width="50%" valign="top"><a href="https://github.com/Mazennaji/loomstack-erp"><img src="./assets/project-2.svg" alt="loomstack-erp" width="100%"/></a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/Mazennaji/raftkv"><img src="./assets/project-3.svg" alt="raftkv" width="100%"/></a></td>
-<td width="50%" valign="top"><a href="https://github.com/Mazennaji/ridepin-platform"><img src="./assets/project-4.svg" alt="ridepin-platform" width="100%"/></a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/Mazennaji/flyrank-capstone-metering-billing"><img src="./assets/project-5.svg" alt="flyrank-capstone-metering-billing" width="100%"/></a></td>
-<td width="50%" valign="top"><a href="https://github.com/Mazennaji/unwind"><img src="./assets/project-6.svg" alt="unwind" width="100%"/></a></td>
-</tr>
-</table>
+| Project | Stack | What it does |
+|:--|:--|:--|
+| **[CEDAR Chatbot](https://github.com/Mazennaji/cedar-chatbot)** | Python | Trilingual chatbot with an RL module |
 
-<!--CARDS:END-->
+<!--PROJECTS:END-->
 
 [Browse all repositories](https://github.com/Mazennaji?tab=repositories)
 
