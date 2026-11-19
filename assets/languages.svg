@@ -35,14 +35,14 @@
 <text x="467" y="66" font-size="13" fill="#a78bfa" text-anchor="end">35%</text>
 <rect x="28" y="72" width="439" height="8" rx="4" fill="#1a0f33"/>
 <g clip-path="url(#t1)">
-<rect x="28" y="72" width="0" height="8" rx="4" fill="url(#b1)"><animate attributeName="width" from="0" to="153.5" dur="1.2s" begin="0.40s" fill="freeze"/></rect>
+<rect x="28" y="72" width="0" height="8" rx="4" fill="url(#b1)"><animate attributeName="width" from="0" to="153.2" dur="1.2s" begin="0.40s" fill="freeze"/></rect>
 <rect x="-100" y="72" width="100" height="8" fill="url(#shine)"><animate attributeName="x" from="-100" to="500" dur="3s" begin="1.8s" repeatCount="indefinite"/></rect>
 </g>
 <text x="28" y="94" font-size="13" fill="#c4b5fd">Jupyter Notebook</text>
 <text x="467" y="94" font-size="13" fill="#a78bfa" text-anchor="end">13%</text>
 <rect x="28" y="100" width="439" height="8" rx="4" fill="#1a0f33"/>
 <g clip-path="url(#t2)">
-<rect x="28" y="100" width="0" height="8" rx="4" fill="url(#b1)"><animate attributeName="width" from="0" to="57.8" dur="1.2s" begin="0.55s" fill="freeze"/></rect>
+<rect x="28" y="100" width="0" height="8" rx="4" fill="url(#b1)"><animate attributeName="width" from="0" to="57.7" dur="1.2s" begin="0.55s" fill="freeze"/></rect>
 <rect x="-100" y="100" width="100" height="8" fill="url(#shine)"><animate attributeName="x" from="-100" to="500" dur="3s" begin="2.0s" repeatCount="indefinite"/></rect>
 </g>
 <text x="28" y="122" font-size="13" fill="#c4b5fd">PHP</text>
@@ -56,14 +56,14 @@
 <text x="467" y="150" font-size="13" fill="#a78bfa" text-anchor="end">7%</text>
 <rect x="28" y="156" width="439" height="8" rx="4" fill="#1a0f33"/>
 <g clip-path="url(#t4)">
-<rect x="28" y="156" width="0" height="8" rx="4" fill="url(#b3)"><animate attributeName="width" from="0" to="29.5" dur="1.2s" begin="0.85s" fill="freeze"/></rect>
+<rect x="28" y="156" width="0" height="8" rx="4" fill="url(#b3)"><animate attributeName="width" from="0" to="29.4" dur="1.2s" begin="0.85s" fill="freeze"/></rect>
 <rect x="-100" y="156" width="100" height="8" fill="url(#shine)"><animate attributeName="x" from="-100" to="500" dur="3s" begin="2.4s" repeatCount="indefinite"/></rect>
 </g>
 <text x="28" y="178" font-size="13" fill="#c4b5fd">Other</text>
 <text x="467" y="178" font-size="13" fill="#a78bfa" text-anchor="end">38%</text>
 <rect x="28" y="184" width="439" height="8" rx="4" fill="#1a0f33"/>
 <g clip-path="url(#t5)">
-<rect x="28" y="184" width="0" height="8" rx="4" fill="url(#b3)"><animate attributeName="width" from="0" to="165.8" dur="1.2s" begin="1.00s" fill="freeze"/></rect>
+<rect x="28" y="184" width="0" height="8" rx="4" fill="url(#b3)"><animate attributeName="width" from="0" to="166.3" dur="1.2s" begin="1.00s" fill="freeze"/></rect>
 <rect x="-100" y="184" width="100" height="8" fill="url(#shine)"><animate attributeName="x" from="-100" to="500" dur="3s" begin="2.6s" repeatCount="indefinite"/></rect>
 </g>
 </g>
